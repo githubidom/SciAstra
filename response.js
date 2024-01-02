@@ -1,0 +1,16 @@
+const responseObj = {
+    hello: "Hey ! How are you doing ?",
+    hey: "Hey! What's Up",
+    sciastra:"sciAstra is best education centre",
+    about_mentors:"over 60 mentor from the world institutes ",
+   started:"start in march 2021 from a hostel room",
+   services:"our services include comprehensive guidence for institues",
+    focused:"focus on the foster critical thinking of students",
+    guidence:"to think like scientists",
+    exams:"NEST,ISI,CMI,IACS and more",
+    selections:"600+ selections in IISERs ,100+ in NISER ",
+    Rank:"AIR 1 in IAT, AIR 12 in NEST AIR 13 in  KVPY ",
+    Active_community:"more than 1 lakh students recieving career guidence",
+    today: new Date().toDateString(),
+    time: new Date().toLocaleTimeString(),
+  };
